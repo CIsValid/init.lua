@@ -1,26 +1,26 @@
 # init.lua
 🔲✅☑️⛔❔
 
-**Nvim / Neovide Config, heavily inspired by ThePrimeagen.**
+# Nvim / Neovide Game Dev Config, heavily inspired by ThePrimeagen.
 
-Overarching goal was to make a config that fits Game Development like a glove.
+Overarching is to make a config that fits Game Development like a shrek fits his swamp.
 
-*Requirements: Make sure you have in your path:*
+*Prerequisite requirements:*
 
-- make sure you install the clangd support component through Visual Studio Setup, and make sure the installed clang++.exe is in your system path env variable. Needs to be added manually to path, the installer does not do that
-- python 3.11 - 3.12 installed in your path
-- from cmd line do pip install neovim to install the python neovim module. Needed for ultisnips snippets
-- ripgrep in your path
+- Make sure you install the clangd support component through Visual Studio Setup, and make sure the installed clang++.exe is in your system path env variable. Needs to be added manually to path, the installer does not do that
+- Python 3.11 - 3.12 installed in your path
+- From cmd line do pip install neovim to install the python neovim module. Needed for ultisnips snippets
+- Install [ripgrep](https://github.com/BurntSushi/ripgrep) and ensure to add ripgrep in your path.
 
-**Goals:**
+### Goals:
 
-------- Config:
+*------- Config:*
 
 🔲 Improve Keybinds
 
 ✅ Plugins Needed
 
-------- Engines:
+*------- Engines:*
 
 🔲 Unreal Engine
 
@@ -28,10 +28,11 @@ Overarching goal was to make a config that fits Game Development like a glove.
 
 🔲 Godot
 
-------- Debugger:
+*------- Debugger:*
 
 🔲 Debugger(Dap)
 
 -------
 
-**Keybinds:**
+### Keybinds:
+No list yet but will most likely make one later.
